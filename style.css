@@ -1,0 +1,24 @@
+h1 {
+    color:rgb(40, 39, 39)
+}
+
+body {
+    background-color: rgb(128,128,128);
+}
+
+.menuDeCima {
+    color: blue;
+    background-color: rgba(14, 153, 153, 0.43);
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    color: rgba(99, 19, 130, 0.36)
+}
+
+.projeto{
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+}
