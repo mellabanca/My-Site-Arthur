@@ -1,24 +1,55 @@
 h1 {
-    color:rgb(40, 39, 39)
+    color:rgb(235, 235, 235)
 }
 
+h2 {
+    color:rgb(235, 235, 235)
+}
+
+h3 {
+    color:rgb(235, 235, 235)
+}
 body {
-    background-color: rgb(128,128,128);
+    background-color: rgb(67, 66, 66);
 }
 
 .menuDeCima {
     color: blue;
-    background-color: rgba(14, 153, 153, 0.43);
+    background-color: rgba(35, 34, 34, 0.534);
     display: flex;
     justify-content: space-between;
 }
 
 .links {
-    color: rgba(99, 19, 130, 0.36)
+    color: rgba(161, 31, 194, 0.36)
 }
 
 .projeto{
     display: flex; 
     flex-wrap: wrap; 
     justify-content: space-evenly;
+}
+
+.jogo1 h3{
+    color:rgb(66, 232, 224, 0.93)
+}
+
+.jogo2 h3{
+    color:rgba(5, 134, 37, 0.93)
+}
+
+.jogo3 h3{
+    color:rgba(230, 174, 22, 0.8)
+}
+
+.jogo4 h3{
+    color:rgba(255, 128, 0, 0.97)
+}
+
+.jogo5 h3{
+    color:rgba(39, 6, 116, 0.621)
+}
+
+.jogo6 h3{
+    color:rgba(154, 10, 22, 0.736)
 }
