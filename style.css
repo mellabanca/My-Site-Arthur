@@ -1,5 +1,7 @@
 h1 {
-    color:rgb(235, 235, 235)
+    color:rgb(235, 235, 235);
+    margin-top: 50px; 
+    margin-left: 50px;
 }
 
 h2 {
@@ -13,6 +15,14 @@ body {
     background-color: rgb(67, 66, 66);
 }
 
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
 .menuDeCima {
     color: blue;
     background-color: rgba(35, 34, 34, 0.534);
@@ -21,7 +31,11 @@ body {
 }
 
 .links {
-    color: rgba(161, 31, 194, 0.36)
+    margin: 30px;
+}
+
+.cadaLink {
+    margin: 20px;
 }
 
 .projeto{
